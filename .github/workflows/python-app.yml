@@ -44,4 +44,4 @@ jobs:
         username: ${{secrets.Docker_username}}
         password: ${{secrets.Docker_pssword}}
       
-        pytest
+        
